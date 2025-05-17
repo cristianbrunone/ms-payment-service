@@ -111,21 +111,21 @@ npm run start
 
 ## 📸 Prints de Funcionamento
 
-
 - 🗃️ Tabela `CreditCard` no pgAdmin  
-   (screenshots/pgadmin-payment.png)
+  ![pgadmin-payment](screenshots/pgadmin-payment.png)
 
 - ✅ Envio de Pagamento via ThunderClient  
-  (screenshots/post-do-payment.png)
+  ![post-do-payment](screenshots/post-do-payment.png)
 
 - 📧 Tabela `Mail` preenchida pelo serviço de notificação  
-  (screenshots/pgadmin-mail.png)
+  ![pgadmin-mail](screenshots/pgadmin-mail.png)
 
 - 📬 RabbitMQ  
-  (screenshots/rabbitmq.png)
+  ![rabbitmq](screenshots/rabbitmq.png)
 
-- 🖥️ Saída no Terminal com logs do processamento -service Notification: 
-  (screenshots/saida-do-notification.png)
+- 🖥️ Saída no Terminal com logs do processamento -service Notification  
+  ![saida-do-notification](screenshots/saida-do-notification.png)
+
 
 ---
 
