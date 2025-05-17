@@ -111,23 +111,21 @@ npm run start
 
 ## 📸 Prints de Funcionamento
 
-> As imagens devem ser colocadas no diretório `screenshots/` no seu projeto.
-
 
 - 🗃️ Tabela `CreditCard` no pgAdmin  
-  `screenshots/pgadmin-payment.png`
+   (screenshots/pgadmin-payment.png)
 
 - ✅ Envio de Pagamento via ThunderClient  
-  `screenshots/post-do-payment.png`
+  (screenshots/post-do-payment.png)
 
 - 📧 Tabela `Mail` preenchida pelo serviço de notificação  
-  `screenshots/pgadmin-mail.png`
+  (screenshots/pgadmin-mail.png)
 
 - 📬 RabbitMQ  
-  `screenshots/rabbitmq.png`
+  (screenshots/rabbitmq.png)
 
 - 🖥️ Saída no Terminal com logs do processamento -service Notification: 
-  `screenshots/saida-do-notification.png`
+  (screenshots/saida-do-notification.png)
 
 ---
 
