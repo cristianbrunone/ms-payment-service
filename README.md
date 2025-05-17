@@ -46,7 +46,7 @@ payment/
 ### 1. Clonar o repositório
 
 ```bash
-git clone <REPOSITÓRIO_DO_PAYMENT>
+git clone https://github.com/cristianbrunone/ms-payment-service.git
 cd payment
 ```
 
